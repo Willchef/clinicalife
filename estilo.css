@@ -105,7 +105,7 @@
   
   .box-visao-geral {
     position: relative;
-    background-image: url('/assets/recepcao.png');
+    background-image: url('assets/recepcao.png');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
